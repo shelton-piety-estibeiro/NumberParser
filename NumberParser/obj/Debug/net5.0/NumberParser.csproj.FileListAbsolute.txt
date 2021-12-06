@@ -1,0 +1,16 @@
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\NumberParser.exe
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\NumberParser.deps.json
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\NumberParser.runtimeconfig.json
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\NumberParser.runtimeconfig.dev.json
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\NumberParser.dll
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\ref\NumberParser.dll
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\NumberParser.pdb
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.csprojAssemblyReference.cache
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.AssemblyInfoInputs.cache
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.AssemblyInfo.cs
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.csproj.CoreCompileInputs.cache
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.dll
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\ref\NumberParser.dll
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.pdb
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.genruntimeconfig.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NmHPHDOMcTPi1806kpThY1PcBz6jPqD1Siz6udarMR6dfOR72UrNRci93VcWPfzTXuuB0UoQBGGbSzdLaGWfvA==",
+  "dgSpecHash": "vHwI+mL839YJjNZmy72YrHOkgHBRxDjXrADCY+kD7pW0dB30HALBtHJNzGYEK1w16yuZAsaLNxuFsBVRCCZhDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shelton Estibeiro\\Documents\\GitHub\\NumberParser\\NumberParser\\NumberParser\\NumberParser.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Shelton Estibeiro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

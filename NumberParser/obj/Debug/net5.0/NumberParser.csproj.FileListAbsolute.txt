@@ -14,3 +14,5 @@ C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberPars
 C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\ref\NumberParser.dll
 C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.pdb
 C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.genruntimeconfig.cache
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Shelton Estibeiro\Documents\GitHub\NumberParser\NumberParser\NumberParser\obj\Debug\net5.0\NumberParser.csproj.CopyComplete
